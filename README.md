@@ -88,3 +88,6 @@ Este é um projeto de API desenvolvida com Flask que simula o funcionamento de u
 
 3. **Sintaxe nova**:
     Entender e aplicar sintaxes específicas do Flask, como jsonify, manipulação de requisições e uso de Blueprints.
+
+4. **Casos de Testes**:
+    Como era minha primeira experiência com Flask e com a criação de casos de teste, enfrentei dificuldades em implementar testes automatizados para validar as funcionalidades do projeto.
